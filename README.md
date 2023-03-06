@@ -1,2 +1,2 @@
 # node_mongo
-base for node&amp;mongo api server
+base code for node api server using mongoDB as database.
